@@ -1,3 +1,5 @@
+#made by Mustafa Köse. please don't steal it.
+
 import subprocess as sp
 import time
 import re
